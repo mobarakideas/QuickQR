@@ -1,3 +1,4 @@
+
 # QuickQR
 # ⚡ QuickQR – Smart QR Code Generator
 
@@ -27,3 +28,4 @@ QuickQR is a powerful and user-friendly web application that allows users to gen
 ---
 
 ## 📂 Project Structure
+<img width="1341" height="628" alt="image" src="https://github.com/user-attachments/assets/f8448b87-4680-4517-a43c-3dbb245ac044" />
